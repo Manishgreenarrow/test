@@ -1,0 +1,17 @@
+.jumbortan{
+background: url(../images/bg.jpg);
+background-position: center;;
+background-size: cover;
+background-repeat: no-repeat;
+padding: 50px 0px;
+background-color: #000;
+}
+.text_la{
+	font-weight: 600;
+	color: #fff;
+	font-size: 30px
+}
+.text_pa{
+	font-weight: 600;
+	color: #fff;
+}

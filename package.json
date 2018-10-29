@@ -2,12 +2,16 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://demostudio.in/react/",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "source-map-explorer": "^1.6.0"
   },
   "scripts": {
+    "analyze": "source-map-explorer build/static/js/main.*",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

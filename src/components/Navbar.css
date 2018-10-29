@@ -1,0 +1,15 @@
+a{
+	color:#fff;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 600;
+}
+a:hover{
+	color:#6fbe44;
+}
+.navbar {
+    background: transparent;
+    padding: 20px;
+    position: absolute;
+    width: 100%;
+}
